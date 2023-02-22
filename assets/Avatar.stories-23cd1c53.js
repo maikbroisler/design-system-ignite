@@ -1,0 +1,2 @@
+import{A as t}from"./index-9b5724b0.js";import"./index-db10414b.js";import"./iframe-6e62ecc2.js";import"./index-84c8d4c4.js";import"./jsx-runtime-cccae797.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/maikbroisler.png",alt:"Maik Broisler"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-23cd1c53.js.map
